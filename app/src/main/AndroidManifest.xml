@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.fallencoffee">
+
+    <application
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:fullBackupContent="@xml/backup_descriptor"
+        tools:ignore="AllowBackup">
+        <activity android:name=".view.store.notification" />
+        <activity android:name=".view.store.order_history" />
+        <activity android:name=".view.store.detail_store" />
+        <activity android:name=".view.qrcode.generated_qrcode" />
+        <activity android:name=".view.menu" />
+        <activity android:name=".view.user.user_profile" />
+        <activity android:name=".view.product.countdown" />
+        <activity android:name=".view.user.contact_detail" />
+        <activity android:name=".view.user.list_contacts" />
+        <activity android:name=".view.store.combo_grupal" />
+        <activity android:name=".view.product.list_combopack" />
+        <activity android:name=".view.product.detail_combopack" />
+        <activity android:name=".view.product.detail_product" />
+        <activity android:name=".view.product.home" />
+        <activity android:name=".view.qrcode.scanner_qrcode" />
+        <activity android:name=".view.user.check_code_email" />
+        <activity android:name=".view.user.SignUp" />
+        <activity android:name=".view.user.SignIn" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

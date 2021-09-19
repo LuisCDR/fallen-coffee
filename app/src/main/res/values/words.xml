@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="empty" />
+    <string name="username">Usuario</string>
+    <string name="email">Correo electrónico</string>
+    <string name="usermail">Username/Email</string>
+    <string name="password">Contraseña</string>
+    <string name="rPassword">Repetir Contraseña</string>
+    <string name="next">Siguiente</string>
+    <string name="insertCode">Ingresar Código</string>
+    <string name="check">Verificar</string>
+    <string name="finality">Finalizar</string>
+    <string name="prepTime">Tiempo de Preparación </string>
+    <!--aproximadamente-->
+    <!--tabla alimenticia-->
+    <string name="ingredient">Ingrediente</string>
+    <string name="nutrient">Nutriente</string>
+    <string name="percent"> %</string><!--traducir porcentaje signo-->
+    <!--pedir-->
+    <string name="quantity">Cantidad</string>
+    <string name="Me">Yo</string>
+    <string name="add">Agregar</string>
+    <!--beneficios-->
+    <!--descuento-->
+    <string name="free">Gratis</string>
+    <!--lista de familiares-->
+    <!--lista de amigos-->
+    <!--pedir Combos-->
+    <string name="tagUsername">Etiqueta o Usuario</string>
+    <!--agregar nuevo Contacto-->
+    <!--relación-->
+    <!--etiqueta de busqueda-->
+    <!--tiempo de servicio-->
+    <string name="version">Version: </string>
+    <string name="contact">Contacto</string>
+    <string name="qrCode">Código QR</string>
+    <string name="generate">Generar</string>
+    <string name="store">Tienda</string>
+    <string name="location">Ubicación</string>
+    <string name="reference">Referencia</string>
+    <string name="admin">ADMIN</string>
+    <string name="symbol">S/.</string>
+    <string name="stopTime">Detener Tiempo</string>
+    <string name="back_arrow">Back arrow</string>
+</resources>

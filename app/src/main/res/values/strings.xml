@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fallen Coffee</string>
+
+    <string name="sign_in">Iniciar Sesión</string>
+    <string name="sign_up">Crear Cuenta</string>
+    <string name="check_email">Verificar Correo</string>
+</resources>
